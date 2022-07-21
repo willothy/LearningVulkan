@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DrawingATriangle/DrawingATriangle/x64/Debug
+/DrawingATriangle/x64/Debug
+/DrawingATriangle/.vs
